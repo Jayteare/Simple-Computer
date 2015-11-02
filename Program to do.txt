@@ -1,0 +1,8 @@
+Fix Left Shift
+Get Save working
+Get Load working
+Design Information boxes
+Design SC Logo
+Add leading zero's
+Limit Number Size to 3
+Change Label Color indication for Step Mode (Debug)

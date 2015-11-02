@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Simple Computer User Information Help Box
+
+Welcome to the help section of the Simple Computer application!
+It is very easy to get lost here, so we are here to help. If you have further information regarding
+the program, you can contact me at: jon.dubdub@yahoo.com for further inqueries.
+ 
+Keyboard Input
+ 
+Keyboard input is allowed to cells within the Memory, Input Cards, and Program Counter (PC). Simply select the desired cell and type the contents. When finished and the keyboard focus is taken from the cell, the cell contents are checked. Non-numeric characters are discarded.
+
+If there is only a two digit input, the program will automatically assume the opCode "0" and start executing the copy from input opCode.
+ 
+Any input to the Accumulator (AC), Instruction Register (IR), Output Cards, or Memory Cell '00' is discarded and the previous value is restored when keyboard focus is taken from the cell. It is not possible to print the emulator with erroneous or 'fabricated' values within these cells.
+ 
+Moving Cell Contents
+ 
+Cell contents can be moved from one cell to another by highlighting the cell, typing "ctrl-x" to cut or "ctrl-c" to copy, then selecting the target cell and typing "ctrl-v" to paste.
+ 
+Clearing
+ 
+Buttons are provided at the top of each component of the Decimal Computer Emulator to allow clearing of the cells. Clearing of the CPU will reset the Program Counter to '00'. Clearing of the Input Cards resets the Input Card counter to '01'. Memory location '00' is always '001' by default.
+ 
+A 'Reset' button is provided for the Input Cards to allow resetting the Input Card counter without clearing the cell contents.
+ 
+A 'Clear All' button is provided to clear all components of the Decimal Computer simultaneously.
+ 
+Input/Ouput
+ 
+Printing
+ 
+Printing of the Decimal Computer and all it's contents are not implemented yet. But if you wish to print your program, it is
+advised to use the "Print Screen" function to capture the current screen and use other applications to paste and print the 
+desired program.
+ 
+Loading Program Files
+ 
+Loading program files is accomplished in these steps:
+
+    Select the "Load" button from the Decimal Computer menu.  After clicking on the "Load" button, a selection window will pop-up and display itself to you.
+    Here you can only load programs that are in Simple Computer format. Basically you can only load saved .txt files that a user has saved with the Simple Computer save button.
+    After selecting the desired file click on "Load" to load the program.
+
+Saving Program Files
+ 
+Saving is accomplished in two steps:
+
+    Select the "Save button from the Decimal Computer menu. A window will open that contains the program file.
+    Select "File" "Save As" from the menu on this smaller window to save the program file to disk.
+
+Execution
+ 
+The Decimal Computer Emulator is a three decimal digit virtual machine. It contains 100 cells of Memory (cell '00' through '99'), 15 Input Cards, and 15 Ouput Cards. The Central Processing Unit (CPU) contains a three decimal digit accumulator (with an associated one decimal digit Carry 'Bit'), a three decimal digit Instruction Register, and a two decimal digit Program Counter. It can handle Signed-Magnitude execution with an additional sign bit, or alternatively, Ten's complement execution without the sign bit.
+ 
+Instruction Set
+ 
+Each instruction word is composed of a one decimal digit operation code and a two decimal digit address. The left most digit is taken to be the operation code, the right two digits are the address.
+ 
+The following is the instruction set for this emulator:
+ 
+Op-code 	Description
+0 _ _ 	Input � Copy the current input card into cell number _ _ and advance to the next card. Halt execution if the input card is empty.
+1 _ _ 	Output � Copy the contents of cell number _ _ to the current output card and advance to the next card.
+2 _ _ 	Add � Add the contents of cell number _ _ to the value of the accumulator. Sets Carry Bit on overflow.
+3 _ _ 	Subtract � Subtract the contents of cell number _ _ from the current value of the accumulator. Sets Carry Bit on overflow.
+4 _ _ 	Load Accumulator � Clear the accumulator and carry flag, then copy the contents of cell number _ _ into the accumulator.
+5 _ _ 	Store Accumulator � Copy the tree digits of the accumulator into cell number _ _.
+6 _ _ 	Jump � Place the current value of the program counter into cell 99. Next, change the value of the program counter to _ _.
+7 _ _ 	Test Accumulator � If the value of the accumulator is negative, change the value of the program counter to _ _.
+8 x y 	Shift � Shift the accumulator left x digits, then shift the result right y digits. Shift digits through the Carry Bit and enter zeros from the left and right appropriately.
+9 _ _ 	Halt � Replace the value of the program counter with cell number _ _ and then halt execution.
+ 
+Step
+ 
+Make sure the Program Counter is set to the correct value. Execution can proceed one instruction at a time by clicking the "Step" button in the CPU. This feature is useful when debugging. The "Run" button is not currently implemented but will be in the upcoming
+versions of the program.</value>
+  </data>
+</root>

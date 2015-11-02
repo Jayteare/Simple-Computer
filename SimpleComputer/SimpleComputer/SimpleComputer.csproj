@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D3A5756-83F9-442D-A5B9-29BE68835DF2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimpleComputer</RootNamespace>
+    <AssemblyName>SimpleComputer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbsoluteH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbsoluteH.Designer.cs">
+      <DependentUpon>AbsoluteH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccumulatorH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccumulatorH.Designer.cs">
+      <DependentUpon>AccumulatorH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base.Designer.cs">
+      <DependentUpon>Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BootH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BootH.Designer.cs">
+      <DependentUpon>BootH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CPUH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CPUH.Designer.cs">
+      <DependentUpon>CPUH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DivisionH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DivisionH.Designer.cs">
+      <DependentUpon>DivisionH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help1.Designer.cs">
+      <DependentUpon>Help1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputH.Designer.cs">
+      <DependentUpon>InputH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputRegistH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputRegistH.Designer.cs">
+      <DependentUpon>InputRegistH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemH.Designer.cs">
+      <DependentUpon>MemH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assist1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assist1.Designer.cs">
+      <DependentUpon>Assist1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutputH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutputH.Designer.cs">
+      <DependentUpon>OutputH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProgramCounterH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgramCounterH.Designer.cs">
+      <DependentUpon>ProgramCounterH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShiftingH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShiftingH.Designer.cs">
+      <DependentUpon>ShiftingH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleCmp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleCmp1.Designer.cs">
+      <DependentUpon>SimpleCmp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbsoluteH.resx">
+      <DependentUpon>AbsoluteH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccumulatorH.resx">
+      <DependentUpon>AccumulatorH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base.resx">
+      <DependentUpon>Base.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BootH.resx">
+      <DependentUpon>BootH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CPUH.resx">
+      <DependentUpon>CPUH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DivisionH.resx">
+      <DependentUpon>DivisionH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help1.resx">
+      <DependentUpon>Help1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputH.resx">
+      <DependentUpon>InputH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputRegistH.resx">
+      <DependentUpon>InputRegistH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemH.resx">
+      <DependentUpon>MemH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assist1.resx">
+      <DependentUpon>Assist1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutputH.resx">
+      <DependentUpon>OutputH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramCounterH.resx">
+      <DependentUpon>ProgramCounterH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShiftingH.resx">
+      <DependentUpon>ShiftingH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleCmp1.resx">
+      <DependentUpon>SimpleCmp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

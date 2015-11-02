@@ -1,0 +1,106 @@
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe.config
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.pdb
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csprojResolveAssemblyReference.cache
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Base.resources
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Properties.Resources.resources
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csproj.GenerateResource.Cache
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.exe
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.pdb
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AboutBox1.resources
+F:\School\Computer Science\CS3A\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Form1.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe.config
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.exe
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.pdb
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.pdb
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csprojResolveAssemblyReference.cache
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AboutBox1.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Base.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Properties.Resources.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csproj.GenerateResource.Cache
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe.config
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.exe
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.pdb
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.pdb
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csprojResolveAssemblyReference.cache
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AboutBox1.resources
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Base.resources
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Form1.resources
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Properties.Resources.resources
+C:\Users\Jtr\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csproj.GenerateResource.Cache
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe.config
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.exe
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.pdb
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.pdb
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csprojResolveAssemblyReference.cache
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AboutBox1.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Base.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Properties.Resources.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csproj.GenerateResource.Cache
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemoryHelp.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemHelp.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.SImpleCmp1.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Assist1.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputH.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.OutputH.resources
+C:\Users\Can\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AccumulatorH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe.config
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.exe
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.pdb
+F:\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe
+F:\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.pdb
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csprojResolveAssemblyReference.cache
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AboutBox1.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AccumulatorH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Base.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemoryHelp.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemHelp.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Assist1.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.OutputH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.SImpleCmp1.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Properties.Resources.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csproj.GenerateResource.Cache
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.CPUH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputRegistH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.ProgramCounterH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AccumulatorH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.CPUH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemoryHelp.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputRegistH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemHelp.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Assist1.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.OutputH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.ProgramCounterH.resources
+\\cs-server2\students\desk\jdalgir0\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.SImpleCmp1.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.DivisionH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AbsoluteH.resources
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.ShiftingH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe.config
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.exe
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.pdb
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.exe
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\bin\Debug\SimpleComputer.pdb
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AboutBox1.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AbsoluteH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.AccumulatorH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Base.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.CPUH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.DivisionH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemoryHelp.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.InputRegistH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.MemHelp.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Assist1.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.OutputH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.ProgramCounterH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.ShiftingH.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.SImpleCmp1.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.Properties.Resources.resources
+C:\Users\Jon\Desktop\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.csproj.GenerateResource.Cache
+F:\GUI Home\SimpleComputer\SimpleComputer\obj\Debug\SimpleComputer.BootH.resources
